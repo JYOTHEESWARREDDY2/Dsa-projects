@@ -70,6 +70,8 @@ main Method:
 sample input:
 ------------
 ![image](https://github.com/user-attachments/assets/f08ea481-df31-4cbd-9aba-3adb97d37eb6)
+
 sample output:
+-------------
 ![image](https://github.com/user-attachments/assets/4825607a-1de1-4256-984c-b16e5173ff25)
 
